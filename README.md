@@ -1,4 +1,5 @@
 # do-it-vue
+Todo-List developed as vue.js.
 
 ## Project setup
 ```
